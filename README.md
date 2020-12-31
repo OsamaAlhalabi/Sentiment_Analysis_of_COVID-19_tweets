@@ -5,9 +5,8 @@ In this notebook, many techniques used in the domain of natural language process
 traditional techniques such as **Bag of Words** and **TF-IDF** have been used in addition to applying many deep learning algorithms such as **CNN - LSTM - BI-LSTM - GRU**<br/>
 Language modeling was applied based on MLE, which was used to generate new tweets.
 Several visualization attached to each model separately using matplotlib, plotly and seaborn, this visualization about classification accuracy and data distribution in the used dataset.
-
 <br/>
-### Data cleaning process included: 
+### Data cleaning process included: <br/>
   - Sub 1: Remove URL.
 2- Remove Punctuation marks.
 (3. ) Remove Stop words.
