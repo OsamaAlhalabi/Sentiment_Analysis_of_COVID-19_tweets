@@ -7,8 +7,8 @@ Language modeling was applied based on MLE, which was used to generate new tweet
 Several visualization attached to each model separately using matplotlib, plotly and seaborn, this visualization about classification accuracy and data distribution in the used dataset.
 
 <br/>
-Data cleaning process included: 
-* 1: Remove URL.
+### Data cleaning process included: 
+  - Sub 1: Remove URL.
 2- Remove Punctuation marks.
 (3. ) Remove Stop words.
 (4. ) Remove Emojis and Photos.
