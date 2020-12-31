@@ -1,4 +1,4 @@
-# Sentiment_Analysis_of_COVID-19_tweets
+# Sentiment Analysis of COVID-19 tweets
 Sentiment Analysis on tweets related to COVID-19 by using many techniques.<br/>
 
 In this notebook, many techniques used in the domain of natural language processing, such as language modeling, topic modeling and sentiment analysis,  including data cleaning and normalizing  processes and so on. 
