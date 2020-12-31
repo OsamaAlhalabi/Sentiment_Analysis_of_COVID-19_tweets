@@ -8,8 +8,8 @@ Several visualization attached to each model separately using matplotlib, plotly
 
 <br/>
 Data cleaning process included: 
-(1. ) Remove URL.
-(2. ) Remove Punctuation marks.
+1- Remove URL.
+2- Remove Punctuation marks.
 (3. ) Remove Stop words.
 (4. ) Remove Emojis and Photos.
 (5. ) Remove non-ASCII chars.
