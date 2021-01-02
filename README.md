@@ -18,4 +18,4 @@ Several visualization attached to each model separately using matplotlib, plotly
 Used dataset has been categorized into five classes.
 Later, it was converted to binary data to test the best model **BI-LSTM** on it in two classes only (positive and negative). <br/>
 
-### At the end of the notebook there is a table containing a comparison between the used models.
+#### At the end of the notebook there is a table containing a comparison between the used models.
